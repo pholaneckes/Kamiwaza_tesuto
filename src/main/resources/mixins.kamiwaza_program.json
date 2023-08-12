@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "top.codephon.kamiwaza_tesuto.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.kamiwaza_program.refmap.json",
+  "minVersion": "0.7",
+  "mixins": [
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
